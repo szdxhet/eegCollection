@@ -16,4 +16,5 @@ eeg code and paper Collection
 | EEG-Conformer | EEG Conformer: Convolutional Transformer for EEG Decoding and Visualization |2022|bciiv2a 78.66% |pytorch |[Code](https://github.com/eeyhsong/EEG-Conformer)|可以借鉴注意力部分|
 | GSNN | Graph Stochastic Neural Networks for Semi-supervised Learning |2022|cora |pytorch |[Code](https://github.com/GSNN/GSNN)|比较新的idea|
 | ECML-PKDD_MMCNN | A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification. |2020|bci2a 0.814 |tf |[Code](https://github.com/jingwang2020/ECML-PKDD_MMCNN)|多分支多规模|
+| RNN_LSTM |  ||bci |tf |[Code](https://github.com/shariharan205/Motor-Imagery-Tasks-Classification-using-EEG-data)||
 

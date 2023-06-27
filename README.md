@@ -14,3 +14,6 @@ eeg code and paper Collection
 | LTS-GAT-model | Locally temporal-spatial pattern learning with graph attention mechanism for EEG-based emotion recognition |2022||Pytorch |[Code](https://github.com/CFSRgroup/LTS-GAT-model)|只有网络模型，情感eeg|
 | eegnet-based-embedded-bci | An Accurate EEGNet-based Motor-Imagery Brain--Computer Interface for Low-Power Edge Computing |2020|Physionet 65.07% |tf |[Code](https://github.com/MHersche/eegnet-based-embedded-bci)||
 | EEG-Conformer | EEG Conformer: Convolutional Transformer for EEG Decoding and Visualization |2022|bciiv2a 78.66% |pytorch |[Code](https://github.com/eeyhsong/EEG-Conformer)|可以借鉴注意力部分|
+| GSNN | Graph Stochastic Neural Networks for Semi-supervised Learning |2022|cora |pytorch |[Code](https://github.com/GSNN/GSNN)|比较新的idea|
+| ECML-PKDD_MMCNN | A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification. |2020|bci2a 0.814 |tf |[Code](https://github.com/jingwang2020/ECML-PKDD_MMCNN)|多分支多规模|
+

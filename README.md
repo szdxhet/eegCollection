@@ -20,6 +20,8 @@ eeg code and paper Collection
 | EEG-motor-imagery | GCN-Explain-Net: An Explainable Graph Convolutional Neural Network (GCN) for EEG-based Motor Imagery Classification and Demystification ||Physionet 76.95% |pytorch |[Code](https://github.com/shariharan205/Motor-Imagery-Tasks-Classification-using-EEG-data)|没找到论文|
 | eeg-gnn-ssl | Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis |2022| |pytorch |[Code](https://github.com/tsy935/eeg-gnn-ssl)|癫痫数据集，可以借鉴可视化|
 | DGCNN | EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks |2022| |pytorch |[Code](https://github.com/xueyunlong12589/DGCNN)|情感数据集,切比雪夫gcn代码可供学习|
+| eeg-gcnn | Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network |2020| |pytorch |[Code](https://github.com/neerajwagh/eeg-gcnn)|正在使用的代码，效果不是 很好|
+| EEG-DL |GCNs-Net: A Graph Convolutional Neural Network Approach for Decoding Time-resolved EEG Motor Imagery Signals |2020| |tf |[Code](https://github.com/SuperBruceJia/EEG-DL)|之前使用的代码，tf不好改模型|
 
 
 

@@ -18,7 +18,7 @@ eeg code and paper Collection
 | ECML-PKDD_MMCNN | A Multi-branch Multi-scale Convolutional Neural Network for Motor Imagery Classification. |2020|bci2a 0.814 |tf |[Code](https://github.com/jingwang2020/ECML-PKDD_MMCNN)|多分支多规模|
 | RNN_LSTM |  ||bci |tf |[Code](https://github.com/shariharan205/Motor-Imagery-Tasks-Classification-using-EEG-data)||
 | EEG-motor-imagery | GCN-Explain-Net: An Explainable Graph Convolutional Neural Network (GCN) for EEG-based Motor Imagery Classification and Demystification ||Physionet 76.95% |pytorch |[Code](https://github.com/shariharan205/Motor-Imagery-Tasks-Classification-using-EEG-data)|没找到论文|
-| eeg-gnn-ssl | Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis || |pytorch |[Code](https://github.com/tsy935/eeg-gnn-ssl)|癫痫数据集，可以借鉴可视化|
+| eeg-gnn-ssl | Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis |2022| |pytorch |[Code](https://github.com/tsy935/eeg-gnn-ssl)|癫痫数据集，可以借鉴可视化|
 
 
 

@@ -7,4 +7,5 @@ eeg code and paper Collection
 | cnn-eeg | An end-to-end deep learning approach to MI-EEG signal classification for BCIs. Expert Systems with Applications |2018|Physionet 58.8%，68.51%|tensorflow & keras|[Code](https://github.com/hauke-d/cnn-eeg)|有可视化的部分可以拿来用；迁移学习？|
 | Brain_EEGAT | EEG-GAT: Graph Attention Networks for Classification of Electroencephalogram (EEG) Signals |2022|Physionet(睡眠) 58.09%|Pytorch|[Code](https://github.com/AIRightGpl/Brain_EEGAT)|代码比较乱，可以参考其中的模型|
 | GCN、GAT、GraphSAGE、deepwalk、node2vec ||||Pytorch |[Code](https://github.com/shuxinyin/Graph-Learning)|可以参考学习|
-| EEGNet | EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces |2016||Pytorch|[PytorchCode](https://github.com/aliasvishnu/EEGNet)[tensorflowCode](https://github.com/vlawhern/arl-eegmodels)||
+| EEGNet | EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces |2016||Pytorch&tensorflow |[PytorchCode/](https://github.com/aliasvishnu/EEGNet)[tensorflowCode](https://github.com/vlawhern/arl-eegmodels)||
+| GAT | Graph Attention Networks |2017||Pytorch|[PytorchCode/](https://github.com/Diego999/pyGAT)[tensorflowCode](https://github.com/PetarV-/GAT)||

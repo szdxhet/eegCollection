@@ -9,4 +9,4 @@ eeg code and paper Collection
 | GCN、GAT、GraphSAGE、deepwalk、node2vec ||||Pytorch |[Code1/](https://github.com/shuxinyin/Graph-Learning)[Code2](https://github.com/dsgiitr/graph_nets)|可以参考学习|
 | EEGNet | EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces |2016||Pytorch&tensorflow |[PytCode/](https://github.com/aliasvishnu/EEGNet)[tfCode](https://github.com/vlawhern/arl-eegmodels)||
 | GAT | Graph Attention Networks |2017||Pytorch|[PytCode/](https://github.com/Diego999/pyGAT)[tfCode](https://github.com/PetarV-/GAT)||
-| LTS-GAT-model | Locally temporal-spatial pattern learning with graph attention mechanism for EEG-based emotion recognition |2022||Pytorch |[Code](https://github.com/CFSRgroup/LTS-GAT-model)|只有网络模型|
+| LTS-GAT-model | Locally temporal-spatial pattern learning with graph attention mechanism for EEG-based emotion recognition |2022||Pytorch |[Code](https://github.com/CFSRgroup/LTS-GAT-model)|只有网络模型，情感eeg|

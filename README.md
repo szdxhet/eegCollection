@@ -3,7 +3,7 @@ eeg code and paper Collection
 | Model |论文|time|Dataset|框架|Realted| Description |
 | --- | --- | --- | --- | --- | --- | --- | 
 | DL_EEG ||||Pytorch |[Code](https://github.com/edw4rdyao/DL_EEG#public-datasets)|运动想象eeg合集，包括多种模型，要好好看看|
-| MNE_GCN/GCN_for_EEG ||||tf |[Code1/](https://github.com/magnumical/MNE_GCN)[Code2](https://github.com/magnumical/GCN_for_EEG)|Coarseing那个代码的tensorflow版本|
+| GCN |Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering|2016||Pytorch&tf|[Code1/](https://github.com/magnumical/MNE_GCN)[Code2](https://github.com/magnumical/GCN_for_EEG)[rawCode](https://github.com/mdeff/cnn_graph)|Coarseing那个代码多种版本|
 | FB-GCNN ||||Pytorch |[Code](https://github.com/yff12345/FB-GCNN)|Coarseing那个代码的pytorch版本，有chebshev_gcnn.Py|
 | EEGGENET | EEG_GENet：A Feature-Level Graph Embedded Method for Motor Imagery Classification based on EEG Signal |2022|Bciciv-2a 79.57%;high_Gamma 96.02%|Pytorch|[Code](https://github.com/stickOverCarrot/EEGGENET)|基于braindecode库|
 | cnn-eeg | An end-to-end deep learning approach to MI-EEG signal classification for BCIs. Expert Systems with Applications |2018|Physionet 58.8%，68.51%|tf & keras|[Code](https://github.com/hauke-d/cnn-eeg)|有可视化的部分可以拿来用；迁移学习？|

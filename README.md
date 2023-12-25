@@ -24,7 +24,7 @@ eeg code and paper Collection
 | eeg-gnn-ssl | Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis |2022| |pytorch |[Code](https://github.com/tsy935/eeg-gnn-ssl)|癫痫数据集，可以借鉴可视化|
 | DGCNN | EEG Emotion Recognition Using Dynamical Graph Convolutional Neural Networks |2022| |pytorch |[Code](https://github.com/xueyunlong12589/DGCNN)|情感数据集,切比雪夫gcn代码可供学习|
 | eeg-gcnn | Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network |2020| |pytorch |[Code](https://github.com/neerajwagh/eeg-gcnn)|正在使用的代码，效果不是 很好|
-| ATCNet | Physics-Informed Attention Temporal Convolutional Network for EEG-Based Motor Imagery Classification |2023| |pytorch&tf |[rawCode](https://github.com/Altaheri/EEG-ATCNet)[pyCode](https://github.com/doc-ycm/EEG-ATCNet-pytorch)[Code](https://github.com/lwlBCI/EEG-MI-ATCNet)||
+| ATCNet | Physics-Informed Attention Temporal Convolutional Network for EEG-Based Motor Imagery Classification |2023|2a 85.38% and 70.97%|pytorch&tf |[rawCode/](https://github.com/Altaheri/EEG-ATCNet)[pyCode/](https://github.com/doc-ycm/EEG-ATCNet-pytorch)[Code](https://github.com/lwlBCI/EEG-MI-ATCNet)||
 
 
 
